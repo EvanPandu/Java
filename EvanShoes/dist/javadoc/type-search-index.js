@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"evanshoes.controllers","l":"DBController"},{"p":"evanshoes","l":"EvanShoes"},{"p":"evanshoes","l":"MainFrame"},{"p":"evanshoes.config","l":"MyConfig"},{"p":"evanshoes.models","l":"Produk"}];updateSearchResults();
